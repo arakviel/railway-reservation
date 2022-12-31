@@ -1,0 +1,64 @@
+[
+  {
+    "id": "d9767d28-e426-4078-a753-426f1f4911fb",
+    "client": {
+      "id": "7085cfd8-9f1f-4915-98d3-7cdef7a30b6f",
+      "name": "Олег",
+      "surname": "Мельник"
+    },
+    "train": {
+      "code": 81,
+      "addon": "Десна"
+    },
+    "trainCarriage": "4 св",
+    "from": {
+      "unm": 320308,
+      "name": "Київ-Пасажирський"
+    },
+    "to": {
+      "unm": 381000,
+      "name": "Ужгород"
+    },
+    "departure": "22-11-2022 13:10",
+    "arrival": "22-11-2022 19:02",
+    "money": {
+      "value": 1057,
+      "penny": 0
+    },
+    "seat": {
+      "number": 6,
+      "type": "PREFERENTIAL"
+    }
+  },
+  {
+    "id": "2ee5dbcd-cc06-486e-b12c-68da66b5246c",
+    "client": {
+      "id": "04e2cd4a-872d-4d69-b1d5-f1a7edec91c0",
+      "name": "Василь",
+      "surname": "Мельник"
+    },
+    "train": {
+      "code": 37,
+      "addon": "Донбас"
+    },
+    "trainCarriage": "10 купе",
+    "from": {
+      "unm": 320308,
+      "name": "Київ-Пасажирський"
+    },
+    "to": {
+      "unm": 480403,
+      "name": "Донецьк"
+    },
+    "departure": "14-05-2023 09:27",
+    "arrival": "14-05-2023 13:41",
+    "money": {
+      "value": 431,
+      "penny": 50
+    },
+    "seat": {
+      "number": 32,
+      "type": "FULL"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+ua.perge
+ua.perge.cli
+ua.perge.cli.item
+ua.perge.cli.partial
+ua.perge.cli.partial.page
+ua.perge.cli.util
+ua.perge.cli.view
+ua.perge.model
+ua.perge.model.impl
+ua.perge.persistance
+ua.perge.persistance.exception
+ua.perge.repository
+ua.perge.service
+ua.perge.service.exception
